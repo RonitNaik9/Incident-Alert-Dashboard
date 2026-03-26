@@ -1,0 +1,11 @@
+
+node_modules/
+frontend/dist/
+terraform/.terraform/
+terraform/.build/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform.lock.hcl
+.aws/
+*.pem
+.env

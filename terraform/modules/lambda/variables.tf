@@ -1,0 +1,10 @@
+variable "project_name" { type = string }
+variable "sns_topic_arn" { type = string }
+variable "sqs_queue_arn" { type = string }
+variable "incidents_table_name" { type = string }
+variable "incidents_table_arn" { type = string }
+variable "connections_table_name" { type = string }
+variable "connections_table_arn" { type = string }
+variable "websocket_api_execution_arn" { type = string }
+variable "websocket_callback_url" { type = string }
+variable "simulator_interval" { type = string }

@@ -1,6 +1,6 @@
 # Incident Alert Dashboard
 
-A real-time incident monitoring platform built with a serverless AWS backend and React frontend, fully provisioned with Terraform.
+A real-time incident monitoring platform built with a serverless AWS backend and React frontend, fully provisioned with Terraform!!
 
 ## Architecture
 
